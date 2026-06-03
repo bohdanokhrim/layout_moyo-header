@@ -2,7 +2,7 @@
   --blue-color: #00acdc;
 }
 
-* {
+html {
   box-sizing: border-box;
 }
 
